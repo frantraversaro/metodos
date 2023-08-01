@@ -2,7 +2,7 @@
 
 ## Setup
 
-En la materia vamos a estar programando en Python, para lo que vamos a necesitar instalar algunas herramientas y paquetes. Una opción conveniente es instalar [Anaconda](https://www.anaconda.com/download) (especialmente su versión minimal [Miniconda]([Minicoda](https://docs.conda.io/en/latest/miniconda.html))), un administrador de paquetes que incluye Python y todas las librerías necesarias en un sólo instalador. Otra opción es simplemente instalar Python 3 de la página oficial [acá](https://www.python.org/downloads/) y manejarse con [pip](https://pypi.org/project/pip/). Una tercera opción es trabajar en [Google Collab](https://colab.research.google.com/), en cuyo caso no hace falta configurar nada.
+En la materia vamos a estar programando en Python, para lo que vamos a necesitar instalar algunas herramientas y paquetes. Una opción conveniente es instalar [Anaconda](https://www.anaconda.com/download) (especialmente su versión minimal [Miniconda](https://docs.conda.io/en/latest/miniconda.html)), un administrador de paquetes que incluye Python y todas las librerías necesarias en un sólo instalador. Otra opción es simplemente instalar Python 3 de la página oficial [acá](https://www.python.org/downloads/) y manejarse con [pip](https://pypi.org/project/pip/). Una tercera opción es trabajar en [Google Collab](https://colab.research.google.com/), en cuyo caso no hace falta configurar nada.
 
 ### Instrucciones para Anaconda
 
