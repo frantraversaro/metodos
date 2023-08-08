@@ -1,5 +1,4 @@
 import unittest
-import numpy as np
 
 from source.vector_class import Vector
 

@@ -58,7 +58,9 @@ class Vector3D:
 class Vector:
     def __init__(self, components: list):
         # initialize vector
+        self.components = components
         self.dimension = None  # (hint: you are going to need the dimension of the vector here!)
+
 
     def __eq__(self, other):
         return self.components == other.components
