@@ -26,3 +26,11 @@ métodos de optimización como la programación lineal.
 **9. Programación Lineal**
 
 **10. Gradiente Descendente**
+
+# Cómo usar el repositorio
+
+1.- La carpeta source tiene los módulos a completar por el alumno. 
+
+2.- La carpeta tests tiene los tests que corresponden a los módulos de la carpeta source, se considera que el módulo esta correcto cuando todos los test pasan correctamente
+
+3.- La carpeta source_complete contiene las soluciones con el código completo para cada módulo. Se recomienda sólo consultar esta carpeta como último recurso
