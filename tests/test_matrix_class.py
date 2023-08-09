@@ -4,7 +4,7 @@ from source.matrix_class import Matrix
 from source.vector_class import Vector
 
 
-class TestVectorClass(unittest.TestCase):
+class TestMatrixClass(unittest.TestCase):
     def test_repr(self):
         A = Matrix([Vector([1, 0]), Vector([2, -5]), Vector([-1, 3])])
         self.assertEqual(str(A), 'Matrix ( \n1, 2, -1\n0, -5, 3\n)')
