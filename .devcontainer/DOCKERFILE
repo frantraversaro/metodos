@@ -1,0 +1,10 @@
+FROM mcr.microsoft.com/devcontainers/universal:2
+USER root
+
+RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
+     && apt-get -y install --no-install-recommends pandoc \
+     texlive-xetex texlive-fonts-recommended texlive-plain-generic \
+     nodejs npm build-essential
+
+RUN python -m pip install --upgrade pip \
+    && python -m pip install numpy pandas matplotlib scipy tqdm nbconvert nbconvert[webpdf]    
